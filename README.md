@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Guilherme Melo
 
-<!--
-**guilhermetlmelo/guilhermetlmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Sou estudante interessado por tecnologia, inovação e desenvolvimento de soluções que geram impacto real.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Sobre mim
+
+- 👨‍🎓 Estudante de **Ciência da Computação** na [CESAR School](https://www.cesar.school)  
+- 📊 Estudante de **Administração** na [UPE - Universidade de Pernambuco](https://www.upe.br)  
+- 💡 Interesso-me por **desenvolvimento de software**, **gestão** e **empreendedorismo**  
+- 🤝 Acredito na interseção entre tecnologia e negócios como motor para transformação
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python, JavaScript, HTML/CSS  
+- **Ferramentas:** Git, GitHub, VS Code  
+
+---
+
+## 🌱 Em aprendizado contínuo
+
+Atualmente aprofundando meus conhecimentos em:
+
+- Desenvolvimento Full Stack  
+- Gestão de Projetos e Tecnologia  
+
+---
+
+## 📫 Vamos nos conectar!
+
+- 📧 Email: [guilhermetlm096@gmail.com](mailto:guilhermetlm096@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/guilhermeemeloo](https://www.linkedin.com/in/guilhermeemeloo)
+
+---
+
+## ⚡ Curiosidades
+
+- 💼 Já participei de projetos interdisciplinares que unem tecnologia e gestão  
+- 🚀 Tenho interesse especial por empresas juniores, startups e ecossistemas de inovação  
+- 🧠 Gosto de resolver problemas complexos com criatividade e colaboração
