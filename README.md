@@ -39,5 +39,5 @@ Atualmente aprofundando meus conhecimentos em:
 ## ⚡ Curiosidades
 
 - 💼 Já participei de projetos interdisciplinares que unem tecnologia e gestão  
-- 🚀 Tenho interesse especial por empresas juniores, startups e ecossistemas de inovação  
+- 🚀 Tenho interesse especial por empresas juniores e startups
 - 🧠 Gosto de resolver problemas complexos com criatividade e colaboração
